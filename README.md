@@ -1,30 +1,91 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a7cccdf-18ef-4b41-847e-c67af7a9f5a9" />
 
+# Hi 👋, I'm Puneet Bansal from India 🇮🇳
 
-
-
-
-# 🌟 Welcome to My GitHub! 🌟  
-
-Hi there! 👋  
-
-I’m a **front-end engineer** with a strong passion for **data analytics** and a drive to build solutions that make an impact. After spending **7 years in the banking industry in operations**, I transitioned to the tech world in 2022. Since then, I’ve been on an exciting journey of growth and learning.  
-
-## 🔧 What I Do:  
-- Craft **user-friendly and responsive web interfaces** with **React** and **TypeScript**.  
-- Explore the world of **data analytics**, leveraging tools like **Python**, **SQL**, **Power BI**, and **Excel** to uncover insights and tell stories through data.  
-
-## 🚀 What You'll Find Here:  
-I’ve added some of my favorite projects to showcase my work and share it with the world:  
-- 🌐 **Front-end web applications** designed with React and TypeScript.  
-- 📊 **Data analysis projects**, where I dive into datasets to uncover trends and insights.  
-
-## 🌱 What I’m Working On:  
-- Expanding my portfolio with more projects that combine my front-end and data analytics skills.  
-- Preparing for a full transition into a **Data Analyst role** to turn my passion into action.  
-
-## 💡 Let’s Connect!  
-If you find my projects interesting or want to collaborate on something amazing, feel free to reach out.  
-I’m always excited to learn, share, and grow with the community.  
+Front-End Engineer transitioning into DevOps 🚀  
+Cloud • Kubernetes • CI/CD • Automation
 
 ---
+
+## 👨‍💻 About Me
+
+I am a Front-End Engineer with 10+ years of professional experience, currently transitioning into a **DevOps Engineer** role.
+
+After working extensively in the banking domain and later as a UI Developer, I developed a strong interest in **infrastructure, automation, deployments, and cloud-native systems**. I am now actively building hands-on DevOps projects and strengthening my skills in real-world DevOps tools and workflows.
+
+My goal is to design, deploy, and automate scalable, reliable, and secure systems.
+
+---
+
+## 🚀 What I’m Currently Doing
+
+- Learning and practicing **DevOps tools daily**
+- Building **end-to-end DevOps projects** using real-world scenarios
+- Deploying applications on **Kubernetes**
+- Automating CI/CD pipelines
+- Transitioning from UI Engineering to **DevOps Engineering**
+
+---
+
+## 🛠️ DevOps Toolchain (Hands-on)
+
+### ☁️ Cloud & Infrastructure
+- AWS (EC2, VPC, IAM, S3 – hands-on)
+- Terraform (learning & practicing IaC)
+
+### 🐳 Containers & Orchestration
+- Docker
+- Kubernetes (Deployments, Services, Namespaces, Port Forwarding)
+
+### 🔁 CI/CD & Automation
+- Jenkins (Basics to Production)
+- GitHub Actions (learning)
+- Git & GitHub
+
+### 📊 Monitoring & Observability
+- Basics of Prometheus & Grafana (learning stage)
+
+### 🔐 DevSecOps (Beginner)
+- Trivy (image scanning – learning)
+- Security best practices (in progress)
+
+### 🖥️ Scripting & OS
+- Linux (Ubuntu)
+- Shell scripting (basics)
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Kubernetes Practice Projects**  
+- Online Shopping App deployment on Kubernetes  
+- Two-tier Flask App with Docker & K8s  
+
+🔹 **CI/CD Projects**
+- Jenkins pipeline: Basics to Production
+- GitHub Actions (in progress)
+
+🔹 **Frontend + DevOps**
+- React & TypeScript applications deployed via CI/CD
+
+---
+
+## 🌱 Learning Roadmap
+
+- Advanced Kubernetes (Ingress, Helm, ConfigMaps, Secrets)
+- Terraform (AWS-focused)
+- GitOps (ArgoCD)
+- Monitoring & Logging
+- Production-level DevOps practices
+
+---
+
+## 🤝 Let’s Connect
+
+- 📧 Email: puneetbansal5@yahoo.com  
+- 💼 LinkedIn: https://linkedin.com/in/puneetbansal5  
+- 🐙 GitHub: https://github.com/puneetbansal5  
+
+---
+
+⚡ Fun fact: I love breaking things in DevOps labs and fixing them the right way 😄
